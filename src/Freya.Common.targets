@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project>
   <PropertyGroup>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <TargetFrameworks>net45;netstandard1.6</TargetFrameworks>
